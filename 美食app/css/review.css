@@ -1,0 +1,410 @@
+/*
+* @Author: Administrator
+* @Date:   2017-12-10 21:14:29
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-12-10 23:29:15
+*/
+@import url('base.css');
+.tou{
+	width: 100%;
+	height: 3.81rem;
+	background: #FC8401;
+	overflow: hidden;
+	position: relative;
+}
+.tou1{
+	width: 100%;
+	height: 0.52rem;
+	margin-top: 0.42rem;
+}
+.iconfont{
+	font-family: 'iconfont';
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 500028 */
+  src: url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.eot');
+  src: url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.svg#iconfont') format('svg');
+}
+.iconfont1{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.47rem;
+	color: white;
+}
+.iconfont2{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 5.15rem;
+	color: white;
+}
+.iconfont3{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.71rem;
+	color: white;
+}
+.iconfont4{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.62rem;
+	color: white;
+}
+.iconfont5{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.58rem;
+	color: white;
+}
+.tou2{
+	width: 6.4rem;
+	height: 0.51rem;
+	margin-left: 3.09rem;
+	margin-top: 0.86rem;
+	font-size: 0.5rem;
+	line-height: 0.51rem;
+	color: white;
+}
+.tou3{
+	width: 7.4rem;
+	height: 0.27rem;
+	margin-left: 3.09rem;
+	margin-top: 0.21rem;
+	font-size: 0.26rem;
+	line-height: 0.27rem;
+	color: white;
+}
+.mai{
+	width: 2.43rem;
+	height: 2.43rem;
+	border-radius: 15rem;
+	position: absolute;
+	left: 0.3rem;
+	bottom: 15rem;
+}
+.mai img{
+	width: 2.43rem;
+	height: 2.43rem;
+}
+.yonghu{
+	width: 100%;
+	height: 2.56rem;
+	background: white;
+	border-bottom: 0.01rem solid #e1e1e1;
+}
+.yonghu1{
+	width: 100%;
+	height: 0.33rem;
+	margin-top: 0.66rem;
+
+}
+.iconfont6{
+	font-family: 'iconfont';
+	font-size: 0.32rem;
+	line-height: 0.33rem;
+	float: left;
+	margin-left: 0.31rem;
+	color: #ffa220;
+}
+.yonghu11{
+	width: 9rem;
+	height: 0.29rem;
+	float: left;
+	margin-left: 0.27rem;
+	font-size: 0.32rem;
+	line-height: 0.33rem;
+	color: black;
+}
+.iconfont7{
+	font-family: 'iconfont';
+	font-size: 0.32rem;
+	line-height: 0.33rem;
+	float: left;
+	/* margin-left: 1.67rem; */
+	color: #a4a4a4;}
+	.pingjia{
+		width: 100%;
+		height: 1.5rem;
+		background: white;
+		margin-top: 0.64rem;
+		display: flex;
+		justify-content: space-around;
+
+	}
+	.pingjia1{
+		width: 1.76rem;
+		height: 0.87rem;
+		margin-top: 0.63rem;
+		font-size: 0.34rem;
+		text-align: center;
+		line-height: 0.87rem;
+		color: #6d6d6d;
+	}
+	.pingjiaxia{
+		width: 0.6rem;
+		height: 0.06rem;
+		background: #f2b100;
+		margin-left: 5rem;
+	}
+	.xingji{
+		width: 100%;
+		height: 2.42rem;
+		display: flex;
+
+	}
+	.xingji-left{
+		width: 2.84rem;
+		height: 2.41rem;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+	}
+	.left-top{
+		font-size: 0.64rem;
+		color: #FAB300;
+	}
+	.left-bottom{
+		font-size: 0.3rem;
+		color: #656565;
+	}
+	.xingji-center{
+		width: 5.39rem;
+		height: 1.5rem;
+		margin-top: 0.54rem;
+		display: flex;
+		flex-direction: column;
+		border-right: 0.02rem solid #E3E3E3;
+	}
+	.center-top{
+		width: 100%;
+		height: 50%;
+		display: flex;
+	}
+	.center-bottom{
+        width: 100%;
+		height: 50%;
+		display: flex;
+	}
+	.top-left{
+		font-size: 0.27rem;
+		color: #676767;
+		margin-left: 0.3rem;
+		margin-top: 0.07rem;
+	}
+	.top-center{
+		width: 2.3rem;
+		height: 0.39rem;
+		margin-left: 0.39rem;
+	}
+	.top-center img{
+		width: 2.3rem;
+		height: 0.39rem;
+	}
+	.top-right{
+		font-size: 0.27rem;
+		color: #F8B410;
+		margin-left: 0.3rem;
+		margin-top: 0.07rem;
+	}
+	.xingji-right{
+		width: 2.84rem;
+		height: 2.41rem;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+	}
+	.right-top{
+		font-size: 0.64rem;
+		color: #979797;
+	}
+	.right-bottom{
+		font-size: 0.3rem;
+		color: #979797;
+	}
+	.huitiao{
+		width: 100%;
+		height: 0.31rem;
+		background: #EFEFEF;
+	}
+	.detial{
+		width: 100%;
+		height: 2.94rem;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.detial-list{
+		width: 9.92rem;
+		height: 1.12rem;
+		margin-top: 0.41rem;
+		border-radius: 0.11rem;
+		display: flex;
+		border: 0.02rem solid #E7D09A;
+		box-sizing: border-box;
+
+	}
+	.good-view{
+		width: 9.92rem;
+		height: 0.76rem;
+		margin-top: 0.32rem;
+		display: flex;
+	}
+	.view-left{
+		width: 1.67rem;
+		height: 100%;
+		background: #F4F4F4;
+		border-radius: 0.06rem;
+		font-size: 0.27rem;
+		color: #646464;
+		line-height: 0.76rem;
+		text-align: center;
+	}
+	.view-center{
+		width: 1.67rem;
+		height: 100%;
+		background: #F4F4F4;
+		border-radius: 0.06rem;
+		margin-left: 0.21rem;
+		font-size: 0.27rem;
+		color: #646464;
+		line-height: 0.76rem;
+		text-align: center;
+	}
+	.view-right{
+		width: 1.67rem;
+		height: 100%;
+		background: #F4F4F4;
+		border-radius: 0.06rem;
+		margin-left: 0.21rem;
+		font-size: 0.27rem;
+		color: #646464;
+		line-height: 0.76rem;
+		text-align: center;
+	}
+	.detial-left{
+		width: 33.3%;
+		height: 100%;
+		background: #FFD162;
+		border-radius: 0.11rem;
+		line-height: 1.12rem;
+		text-align:center;
+		color: #31302F;
+	}
+	.detial-center{
+		width: 33.3%;
+		height: 100%;
+		line-height: 1.12rem;
+		text-align:center;
+		color: #FCB000;
+	}
+	.detial-rignt{
+		width: 33.3%;
+		height: 100%;
+		line-height: 1.12rem;
+		text-align:center;
+		color: #FCB000;
+	}
+	.footer{
+		width: 100%;
+		height: 5.97rem;
+		padding: 0 0.46rem;
+		box-sizing: border-box;
+		border-bottom: 0.02rem solid #E3E3E3;
+		display: flex;
+	}
+	.footer-left{
+		width: 1.07rem;
+		height: 1.22rem;
+		
+	}
+	.footer-left img{
+		width: 1.07rem;
+		height: 1.22rem; 
+	}
+	.footer-right{
+		width: 8.48rem;
+		height: 100%;
+		margin-left:0.35rem;
+		display: flex;
+		flex-direction: column;
+	}
+	.hungry{
+		width: 100%;
+		height: 0.35rem;
+		display: flex; 
+		justify-content: space-between;
+	}
+	.hungry span{
+		color: #313131;
+		font-size: 0.33rem;
+	}
+	.hungry p{
+		color: #999999;
+		font-size: 0.22rem;
+	}
+	.pingfeng{
+		width: 100%;
+		height:0.27rem;
+		margin-top: 0.24rem;
+	}
+	.pingfeng span{
+		color: #939393;
+		font-size: 0.3rem;
+	}
+	.pingfeng img{
+		width: 1.89rem;
+		height: 0.36rem;
+	}
+	.paragraph{
+		width: 100%;
+		height: 1.16rem;
+		margin-top: 0.45rem;
+	}
+	.paragraph p{
+		font-size: 0.31rem;
+		color: #2F2F2F;
+	}
+	.eniang{
+		width: 100%;
+		height: 1.56rem;
+		margin-top: 0.3rem;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.nice{
+		width: 0.39rem;
+		height: 0.36rem;
+	}
+	.nice img{
+		width: 0.39rem;
+		height: 0.36rem;
+	}
+	.eniang-left{
+		width: 2.22rem;
+		height: 0.54rem;
+		border: 0.02rem solid #CCCCCC;
+		border-radius: 0.08rem;
+		margin-top: 0.2rem;
+		margin-left: 0.17rem;
+		box-sizing: border-box;
+		font-size: 0.25rem;
+		color: #656565;
+	}
+	.huifu{
+		width: 100%;
+		height:1.35rem; 
+		background: #F8F8F8;
+		margin-top: 0.16rem;
+		font-size: 0.27rem;
+		color: #6B6B6B;
+
+	}

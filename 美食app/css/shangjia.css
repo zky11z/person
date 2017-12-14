@@ -1,0 +1,156 @@
+/*
+* @Author: Administrator
+* @Date:   2017-12-10 23:36:46
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-12-10 23:50:47
+*/
+@import url('base.css');
+.tou{
+	width: 100%;
+	height: 3.81rem;
+	background: #FC8401;
+	overflow: hidden;
+	position: relative;
+}
+.tou1{
+	width: 100%;
+	height: 0.52rem;
+	margin-top: 0.42rem;
+}
+.iconfont{
+	font-family: 'iconfont';
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 500028 */
+  src: url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.eot');
+  src: url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_500028_y4380fu9r6ixjemi.svg#iconfont') format('svg');
+}
+.iconfont1{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.47rem;
+	color: white;
+}
+.iconfont2{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 5.15rem;
+	color: white;
+}
+.iconfont3{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.71rem;
+	color: white;
+}
+.iconfont4{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.62rem;
+	color: white;
+}
+.iconfont5{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	float: left;
+	margin-left: 0.58rem;
+	color: white;
+}
+.tou2{
+	width: 6.4rem;
+	height: 0.51rem;
+	margin-left: 3.09rem;
+	margin-top: 0.86rem;
+	font-size: 0.5rem;
+	line-height: 0.51rem;
+	color: white;
+}
+.tou3{
+	width: 7.4rem;
+	height: 0.27rem;
+	margin-left: 3.09rem;
+	margin-top: 0.21rem;
+	font-size: 0.26rem;
+	line-height: 0.27rem;
+	color: white;
+}
+.mai{
+	width: 2.43rem;
+	height: 2.43rem;
+	border-radius: 15rem;
+	position: absolute;
+	left: 0.3rem;
+	bottom: 15rem;
+}
+.mai img{
+	width: 2.43rem;
+	height: 2.43rem;
+}
+.yonghu{
+	width: 100%;
+	height: 2.56rem;
+	background: white;
+	border-bottom: 0.01rem solid #e1e1e1;
+}
+.yonghu1{
+	width: 100%;
+	height: 0.33rem;
+	margin-top: 0.66rem;
+
+}
+.iconfont6{
+	font-family: 'iconfont';
+	font-size: 0.32rem;
+	line-height: 0.33rem;
+	float: left;
+	margin-left: 0.31rem;
+	color: #ffa220;
+}
+.yonghu11{
+	width: 9rem;
+	height: 0.29rem;
+	float: left;
+	margin-left: 0.27rem;
+	font-size: 0.32rem;
+	line-height: 0.33rem;
+	color: black;
+}
+.iconfont7{
+	font-family: 'iconfont';
+	font-size: 0.32rem;
+	line-height: 0.33rem;
+	float: left;
+	/* margin-left: 1.67rem; */
+	color: #a4a4a4;}
+	.pingjia{
+		width: 100%;
+		height: 1.5rem;
+		background: white;
+		margin-top: 0.64rem;
+		display: flex;
+		justify-content: space-around;
+
+	}
+	.pingjia1{
+		width: 1.76rem;
+		height: 0.87rem;
+		margin-top: 0.63rem;
+		font-size: 0.34rem;
+		text-align: center;
+		line-height: 0.87rem;
+		color: #6d6d6d;
+	}
+	.pingjiaxia{
+		width: 0.6rem;
+		height: 0.06rem;
+		background: #f2b100;
+		margin-left: 8.7rem;
+	}
+	
