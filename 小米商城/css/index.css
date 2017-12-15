@@ -264,11 +264,11 @@
 	
 }@font-face {
   font-family: 'iconfont';  /* project id 494727 */
-  src: url('http://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.eot');
-  src: url('http://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.eot?#iefix') format('embedded-opentype'),
-  url('http://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.woff') format('woff'),
-  url('http://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.ttf') format('truetype'),
-  url('http://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.svg#iconfont') format('svg');
+  src: url('https://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.eot');
+  src: url('https://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_494727_mo0su53oiw45cdi.svg#iconfont') format('svg');
 }
 .aside-right{
 	font-family: 'iconfont';
@@ -617,7 +617,7 @@ border-top: 1px solid #00C0A5;
 	text-align: center;
 	line-height: 60px;
 	margin-right:32px;
-	cursor:point;
+	cursor:pointer;
 }
 .second-header-right-text:hover{
 	color: #FF6700;
@@ -643,7 +643,6 @@ border-top: 1px solid #00C0A5;
 .center-left{
 	width: 235px;
 	height: 614px;
-	background: red;
 	float: left;
 }
 .center-left:hover{
@@ -806,7 +805,6 @@ border-top: 1px solid #00C0A5;
 	width: 90px;
 	height: 90px;
 	margin-top: 28px;
-	background: yellow;
 	display: block;
 	float: right;
 }
