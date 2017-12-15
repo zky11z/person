@@ -793,7 +793,6 @@ border-top: 1px solid #00C0A5;
 	width: 90px;
 	height: 90px;
 	margin-top: 36px;
-	background: yellow;
 	display: block;
 	float: right;
 }
@@ -927,7 +926,6 @@ border-top: 1px solid #00C0A5;
 .tuijian-list{
 	width: 131px;
 	height: 149px;
-	background: blue;
 	display: block;
 	margin: 0 auto;
 }
@@ -1347,7 +1345,6 @@ border-top: 1px solid #00C0A5;
 .shiping-list-top{
 	width: 296px;
 	height: 180px;
-	background: red;
 	/* margin-right: 14px */
 	margin: 0 auto;
 }
@@ -1355,7 +1352,6 @@ border-top: 1px solid #00C0A5;
 	width: 296px;
 	height: 180px;
 	position: relative;
-	background: red;
 	cursor: pointer;
 }
 .shiping-tupian img{
